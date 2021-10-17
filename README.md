@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 -🌱 I'm currently learning frontend development.
+
 -📫 How to reach me: ilenianese96@gmail.com.
 
 
